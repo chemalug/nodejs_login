@@ -11,7 +11,7 @@ This project is build with:
 
 <strong> INSTALL </strong>
   * Clone this repository
-  * run comand <code> npm install || npm i</code> in root repository
+  * run comand <code> npm install</code> || <code> npm i</code> in root repository
   * config the file <code>src/keys.js</code> connection to mongodb server
   * run comand <code> npm run dev</code>
   
